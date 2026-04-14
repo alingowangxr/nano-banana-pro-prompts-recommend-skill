@@ -891,6 +891,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 6750,
+    "content": "A clean, minimalist 3D isometric model showcasing a [{argument name=\"location\" default=\"car showroom\"}], where [{argument name=\"display items\" default=\"display items\"}] are arranged within a [cabin structure], featuring subtle lighting accents, smooth floor surfaces, soft studio lighting, realistic materials, rounded edges, a miniature architectural style, high detail, and a neutral background.",
+    "title": "Minimalist 3D Isometric Car Showroom Model",
+    "description": "A prompt for generating a clean, minimalist 3D isometric architectural model. It specifies a car showroom within a cabin structure, emphasizing soft studio lighting, realistic materials, rounded edges, and high detail against a neutral background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768890674999_o1djn0_G_CbppYW0AEbevq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 6796,
     "content": "Soft minimal illustration of {argument name=\"subject\" default=\"[SUBJECT]\"}, rounded shapes, gentle gradients, calming tones, modern UI illustration style, friendly, clean, and contemporary.",
     "title": "Soft UI Style Illustration Generator",
